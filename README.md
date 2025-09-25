@@ -2,7 +2,7 @@
 A full-stack web application built with Java, Spring Boot, and SQL to efficiently manage employee records in an organization. The system allows administrators to add, update, delete, and view employee details while keeping data organized and secure.
 
 
-⭐ Features
+# *⭐ Features*
 
 1.Add Employee – Capture employee details like Name, ID, Department, Role, Salary, Contact, and more.
 
@@ -20,7 +20,7 @@ A full-stack web application built with Java, Spring Boot, and SQL to efficientl
 
 8.Database Integration – MySQL or SQL database for storing emp
 
-🛠 Tech Stack
+# *🛠 Tech Stack*
 
 1. Backend – Spring Boot (Java)
 2. Frontend – JSP, HTML, CSS, Bootstrap
